@@ -3,7 +3,9 @@
 ![App Screenshot](https://www.nicepng.com/png/detail/265-2653801_binary-plan-binary-tree-mlm-png.png)
 
 ## Description 👋
-In computer science, a binary tree is a k-ary k=2 tree data structure in which each node has at most two children, which are referred to as the left child and the right child. A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set containing the root.[1] Some authors allow the binary tree to be the empty set as well.
+In computer science, a binary tree is a tree data structure where each node can have at most two children: a left child and a right child. It is a type of k-ary tree, specifically with k=2.
+A binary tree can be defined recursively using set theory. It consists of a tuple (L, S, R), where L and R are binary trees themselves (or the empty set), and S is a singleton set containing the root node. It's worth noting that some authors also consider the empty set as a valid binary tree.
+This definition highlights the hierarchical nature of a binary tree, where nodes can be organized into levels, and each node has a parent-child relationship with its adjacent nodes. The binary tree structure is widely used in various algorithms and data structures in computer science due to its versatility and efficient traversal properties.
 
 ## Basic Binary Tree👍
 
